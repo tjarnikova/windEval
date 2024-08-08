@@ -1,4 +1,4 @@
-for i in {1940..2023}
+for i in {1965..1970}
 
 do
     tdir='/gpfs/data/greenocean2/software/products/windsFromComponents/ERA5_v2024/scripts/daily/'
@@ -20,7 +20,7 @@ do
 
 done
 
-for i in {1940..2023}
+for i in {1965..1970}
 
 do
     tdir='/gpfs/data/greenocean2/software/products/windsFromComponents/ERA5_v2024/scripts/daily/'

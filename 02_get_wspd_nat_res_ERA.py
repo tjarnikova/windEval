@@ -6,7 +6,7 @@ import time
 import xarray as xr
 import numpy as np
 
-for y in range(1940,2024):
+for y in range(1970,2024):
     
     print(y)
     tu = xr.open_dataset(f'/gpfs/data/greenocean2/software/products/windsFromComponents/ERA5_v2024/scripts/daily/10m_u_component_of_wind_ERA5_{y}_daily.nc', chunks={"time": 24})

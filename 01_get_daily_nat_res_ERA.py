@@ -4,7 +4,7 @@ import time
 import xarray as xr
 import numpy as np
 
-for y in range(1940,2023):
+for y in range(2023,2024):
     eradir = '/gpfs/data/greenocean2/software/products/windsFromComponents/ERA5_v2024/scripts/'
     tv = xr.open_dataset(f'{eradir}/10m_v_component_of_wind_ERA5_{y}.nc', chunks={"time": 24})
     tu = xr.open_dataset(f'{eradir}/10m_u_component_of_wind_ERA5_{y}.nc', chunks={"time": 24})
