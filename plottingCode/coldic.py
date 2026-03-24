@@ -24,7 +24,7 @@ prod = {
     'ERA5': {
         'col': '#6db8ff', 'linestyle': '-','fnam': 'ERA5',},
     'MERRA': {
-        'col': '#02954f', 'linestyle': '-', 'fnam': 'MERRA2',},
+        'col': '#f3c108', 'linestyle': '-', 'fnam': 'MERRA2',},
     'obs': {
     'col': 'darkgrey', 'linestyle': '-', 'fnam': 'observations',},
     
