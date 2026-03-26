@@ -1,4 +1,2 @@
-processing code for wind evaluation paper
+Code for https://doi.org/10.5194/egusphere-2025-3374
 
-steps for extracting from downloads to 1x1 daily resolution here:
-https://nettle-pajama-b85.notion.site/Winds-eval-paper-notes-76fc22d90ce14e23b8247ba370b15265?pvs=4
