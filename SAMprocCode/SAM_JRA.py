@@ -1,4 +1,3 @@
-#put python script here
 import xarray as xr
 import numpy as np
 
